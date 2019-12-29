@@ -7,3 +7,6 @@
     - Linked List
     - Graphs
     - Tress
+
+- Some interesting LeetCode solutions
+    - balanced parenthesis
